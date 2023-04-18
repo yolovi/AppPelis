@@ -75,3 +75,24 @@ body {
   transform: translateY(0);
 }
 
+.myButton {
+  background-color: #071526;
+  border-radius: 6px;
+  border: 1px solid #cc8e1a;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 14px;
+  padding: 6px 10px;
+  text-decoration: none;
+}
+
+.myButton:hover {
+  background-color: #cc8e1a;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
