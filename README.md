@@ -1,3 +1,3 @@
 App peliculas
 
-![Imagen pelicula]("./assets/pelisApp.jpg")
+![Imagen pelicula](./assets/pelisApp.jpg)
